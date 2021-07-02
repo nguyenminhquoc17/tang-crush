@@ -4,7 +4,7 @@ const CONFIG = {
     tại em hư đok,
     nên tui mới tuwk..
     vô đây anh nói nè.`,
-    btnIntro: 'hihi',
+    btnIntro: 'Oki nạ :3',
     title: '520, 5620 babi :3 😙',
     desc: 'Em có yêu anh hok:33 ',
     btnYes: 'Cóooo nèeeee <33',
